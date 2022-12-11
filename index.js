@@ -51,7 +51,7 @@ app.get("/",(req,res)=>{
     // })
     return res.redirect('/public/index.html');
     // res.sendFile(__dirname + "/index.html");
-}).listen(3000);
+}).listen(80);
 
 
-console.log("Listening on PORT 3000");
+console.log("Listening on PORT 80");
