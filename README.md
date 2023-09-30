@@ -10,7 +10,7 @@ FlexNet works in a way similar to Netflix. The following design is followed for 
 
 Netflix also follows this system design. The difference between FlexNet and Netflix is the scale of the application. FlexNet exists at a prototype level as it was done as a project.
 
-![Alt Text](https://github.com/Shivansh20128/Flexnet/blob/254bf68b784bc383d4aebb663e587abbdd10f718/demo.gif)
+![Alt Text](https://github.com/Shivansh20128/Flexnet/blob/272cdabafa10d7543e80428bafa8590995b07609/demo.gif)
 
 # Steps to Start Service
 1. Download the latest code from the repository
